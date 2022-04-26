@@ -9,7 +9,7 @@ Must be compiled with BBScript; can be found here: https://github.com/super-cont
 
 ## Current changelist:
 
-#JAM:
+JAM:
 
 -MAX Ryuujin now wallsticks from most places on the screen on normal hit (she needs it)
 
@@ -19,7 +19,7 @@ Must be compiled with BBScript; can be found here: https://github.com/super-cont
 
 
 
-#SOL:
+SOL:
 
 -Bandit Bringer has a second input: 214H. Both inputs work.
 
