@@ -5,7 +5,9 @@
 
 Must be compiled with BBScript; can be found here: https://github.com/super-continent/bbscript
 
---- 
+## Installation
+
+Runs with Rev2ModLoader at runtime, found here: https://github.com/super-continent/Rev2ModLoader
 
 ## Current changelist:
 
