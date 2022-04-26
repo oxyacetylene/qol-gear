@@ -1,13 +1,13 @@
 # qol-gear
  Quality of Life changes for every character in Guilty Gear Xrd
 
-##Build instructions:
+## Build instructions:
 
 Must be compiled with BBScript; can be found here: https://github.com/super-continent/bbscript
 
 --- 
 
-##Current changelist:
+## Current changelist:
 
 JAM:
 MAX Ryuujin now wallsticks from most places on the screen on normal hit (she needs it)
