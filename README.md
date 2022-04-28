@@ -5,9 +5,13 @@
 
 Must be compiled with BBScript; can be found here: https://github.com/super-continent/bbscript
 
+For each character, run `bbscript rebuild ggrev2 ???.txt ???.bbscript`
+
 ## Installation
 
 Runs with Rev2ModLoader at runtime, found here: https://github.com/super-continent/Rev2ModLoader
+
+Place your compiled mods into the rev2_mods folder
 
 ## Current changelist:
 
