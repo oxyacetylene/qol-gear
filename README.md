@@ -53,6 +53,8 @@ Place your compiled mods into the rev2_mods folder
 
 - bt.214S bigger hitbox upwards
 
+- Restore SIGN hitbox?
+
 ### RVN (Raven)
 
 - 
