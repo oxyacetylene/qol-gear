@@ -59,6 +59,6 @@ Place your compiled mods into the rev2_mods folder
 
 - 6P jump cancellable
 
-#### Planned:
+- Scratch gives excitement no matter when it's used because I couldn't figure out how to make it only work on block or hit
 
-- Scratch gives excitement on block
+#### Planned:

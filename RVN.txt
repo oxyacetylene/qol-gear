@@ -5552,15 +5552,13 @@ startState: s32'LandBlowAttack'
       endIf: 
     isAirUnblockable: 1
     Unknown2331: 18
-    upon: (HIT)
-      Unknown54: 0, 2, 25, 0, 1
-      Unknown54: 0, 2, 3, 0, 1
-      storeValue: (NEXT_ARG_IS_VAR), 55, 0, 0
-      callSubroutine: s32'rvn_GaugeLine', 0, 1, 0, 103, 0, 0, 0, 0
-      callSubroutine: s32'rvn_RiseGaugeEffect', 0, 0, 0, 0, 0, 0, 0, 0
-      ifOperation: (IS_LESSER), (NEXT_ARG_IS_VAR), 79, 0, 130
-        endIf: 
-      endUpon: 
+    Unknown54: 0, 2, 25, 0, 1
+    Unknown54: 0, 2, 3, 0, 1
+    storeValue: (NEXT_ARG_IS_VAR), 55, 0, 0
+    callSubroutine: s32'rvn_GaugeLine', 0, 1, 0, 103, 0, 0, 0, 0
+    callSubroutine: s32'rvn_RiseGaugeEffect', 0, 0, 0, 0, 0, 0, 0, 0
+    ifOperation: (IS_LESSER), (NEXT_ARG_IS_VAR), 79, 0, 130
+	  endIf:
     endUpon: 
   sprite: s32'rvn407_00', 3
   tensionGain: 45
