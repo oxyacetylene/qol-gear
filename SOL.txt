@@ -5303,7 +5303,8 @@ startState: s32'BanditRevolverLand'
     SFX_0: s32'SE_HITNIKUC'
     tensionGainOnConnect: 40
     untechableTime: 26
-    hitAirPushbackY: 26250
+	hitAirPushbackX: 15000
+    hitAirPushbackY: 20000
     Unknown35: 2, s32'landing'
     Unknown2137: 0
     Unknown176: 0
@@ -5464,7 +5465,7 @@ startState: s32'BanditRevolverAir'
     airHitEffect: (AIR_FACE_UP)
     groundHitEffect: (AIR_FACE_UP)
     untechableTime: 34
-    hitAirPushbackX: 17500
+    hitAirPushbackX: 25500
     hitAirPushbackY: 26250
     tensionGainOnConnect: 25
     Unknown35: 2, s32'landing'
