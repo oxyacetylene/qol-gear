@@ -43,6 +43,8 @@ Runs with Rev2ModLoader at runtime, found here: https://github.com/super-contine
 
 - 6P now gatlings to c.S, f.S, 2H, 5H, 6H
 
+- Leo's ETC file is currently vanilla. It doesn't need to be compiled.
+
 #### Planned:
 
 - bt.214S bigger hitbox upwards
@@ -54,3 +56,5 @@ Runs with Rev2ModLoader at runtime, found here: https://github.com/super-contine
 #### Planned:
 
 - Scratch gives excitement on block
+
+- 6P jump cancellable
