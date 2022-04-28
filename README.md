@@ -29,9 +29,11 @@ Runs with Rev2ModLoader at runtime, found here: https://github.com/super-contine
 
 - 5K is now 3 frames startup just for fun
 
+- Bandit Revolver first hit now pushes out further, should result in fewer reverse hits
+
 #### Planned:
 
-- Make BR first hitbox launch faster to make 
+- 
 
 ### LEO
 

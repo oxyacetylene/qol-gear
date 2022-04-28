@@ -1,0 +1,1854 @@
+startState: s32'dmy'
+  sprite: s32'null', 1
+  endState: 
+
+startState: s32'Leo061Bake'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    flipDirection: 
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_061bake'
+  endState: 
+
+startState: s32'Leo061Bake2'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    flipDirection: 
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_061bake2'
+  endState: 
+
+startState: s32'Leo200Bake'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    flipDirection: 
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_200bake'
+  endState: 
+
+startState: s32'Leo231Bake'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    flipDirection: 
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_231bake'
+  endState: 
+
+startState: s32'Leo232Bake'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    flipDirection: 
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_232bake'
+  endState: 
+
+startState: s32'Leo201Bake'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    flipDirection: 
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_201bake'
+  endState: 
+
+startState: s32'Leo202Bake'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    flipDirection: 
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_202bake'
+  endState: 
+
+startState: s32'Leo203Bake'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    Unknown460: 2
+    flipDirection: 
+    Unknown450: s32'leo_203bake'
+    endUpon: 
+  sprite: s32'null', 2147483647
+  endState: 
+
+startState: s32'Leo203Bake'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    Unknown460: 2
+    flipDirection: 
+    Unknown450: s32'leo_203bake'
+    endUpon: 
+  sprite: s32'null', 2147483647
+  endState: 
+
+startState: s32'Leo204Bake'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    Unknown460: 2
+    flipDirection: 
+    Unknown450: s32'leo_204bake'
+    endUpon: 
+  sprite: s32'null', 2147483647
+  endState: 
+
+startState: s32'Leo204Bake2'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    Unknown460: 2
+    flipDirection: 
+    Unknown450: s32'leo_204bake2'
+    endUpon: 
+  sprite: s32'null', 2147483647
+  endState: 
+
+startState: s32'Leo205Bake'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    Unknown460: 2
+    flipDirection: 
+    Unknown450: s32'leo_205bake'
+    endUpon: 
+  sprite: s32'null', 2147483647
+  endState: 
+
+startState: s32'Leo205Bake2'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    Unknown460: 2
+    flipDirection: 
+    Unknown450: s32'leo205_bake2'
+    endUpon: 
+  sprite: s32'null', 2147483647
+  endState: 
+
+startState: s32'Leo206Bake'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    Unknown460: 2
+    flipDirection: 
+    Unknown450: s32'leo_206bake'
+    endUpon: 
+  sprite: s32'null', 2147483647
+  endState: 
+
+startState: s32'Leo206Bake2'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    Unknown460: 2
+    flipDirection: 
+    Unknown450: s32'leo_206bake2'
+    endUpon: 
+  sprite: s32'null', 2147483647
+  endState: 
+
+startState: s32'Leo207Bake'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    Unknown460: 2
+    flipDirection: 
+    Unknown450: s32'leo_207bake'
+    endUpon: 
+  sprite: s32'null', 2147483647
+  endState: 
+
+startState: s32'Leo207Bake2'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    Unknown460: 2
+    flipDirection: 
+    Unknown450: s32'leo_207bake2'
+    endUpon: 
+  sprite: s32'null', 2
+  endState: 
+
+startState: s32'Leo210Eff'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    flipDirection: 
+    Unknown1769: 1
+    endUpon: 
+  sprite: s32'null', 10
+  Unknown450: s32'leo_210eff'
+  sprite: s32'null', 2147483647
+  Unknown456: 2
+  Unknown1769: 0
+  endState: 
+
+startState: s32'Leo210EffDell'
+  upon: (IMMEDIATE)
+    flipDirection: 
+    endUpon: 
+  sprite: s32'null', 60
+  Unknown450: s32'leo_210effDell'
+  endState: 
+
+startState: s32'Leo211bake'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    Unknown456: 2
+    flipDirection: 
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_211bake'
+  endState: 
+
+startState: s32'Leo213Bake'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    Unknown456: 2
+    flipDirection: 
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_213bake'
+  endState: 
+
+startState: s32'Leo213Bake2'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    Unknown456: 2
+    flipDirection: 
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_213bake2'
+  endState: 
+
+startState: s32'Leo213Bake3'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    Unknown456: 2
+    flipDirection: 
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_213bake3'
+  endState: 
+
+startState: s32'Leo233Bake'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    Unknown456: 2
+    flipDirection: 
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_233bake'
+  endState: 
+
+startState: s32'Leo233Bake2'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    Unknown456: 2
+    flipDirection: 
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_233bake2'
+  endState: 
+
+startState: s32'Leo233Bake3'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    flipDirection: 
+    endUpon: 
+  sprite: s32'null', 2
+  Unknown450: s32'leo_233bake'
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_233bake3'
+  Unknown456: 2
+  endState: 
+
+startState: s32'Leo250Bake'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    flipDirection: 
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_250bake'
+  endState: 
+
+startState: s32'Leo251Bake'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    flipDirection: 
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_251bake'
+  endState: 
+
+startState: s32'Leo254Bake'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    Unknown456: 2
+    flipDirection: 
+    endUpon: 
+  setMarker: s32'loop'
+  sprite: s32'null', 1
+  Unknown450: s32'leo_254bake'
+  sprite: s32'null', 1
+  Unknown450: s32'leo_254bake2'
+  sprite: s32'null', 1
+  Unknown450: s32'leo_254bake3'
+  sprite: s32'null', 1
+  Unknown450: s32'leo_254bake4'
+  Unknown3: 
+  goToMarker: s32'loop'
+  endState: 
+
+startState: s32'Leo310Bake'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    Unknown456: 2
+    flipDirection: 
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_310bake'
+  endState: 
+
+startState: s32'Leo310Bake2'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    Unknown456: 2
+    flipDirection: 
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_310bake2'
+  endState: 
+
+startState: s32'Leo310Bake3'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    Unknown456: 2
+    flipDirection: 
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_310bake3'
+  endState: 
+
+startState: s32'Leo400Eff'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    flipDirection: 
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_400bake'
+  endState: 
+
+startState: s32'Leo402Eff'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    endUpon: 
+  sprite: s32'null', 15
+  Unknown1769: 1
+  Unknown450: s32'leo_402slash00'
+  sprite: s32'null', 2147483647
+  Unknown1769: 0
+  endState: 
+
+startState: s32'Leo402Eff2'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    endUpon: 
+  sprite: s32'null', 15
+  Unknown1769: 1
+  Unknown450: s32'leo_402slash01'
+  Unknown32: s32'Leo402Eff'
+  sprite: s32'null', 2147483647
+  Unknown1769: 0
+  endState: 
+
+startState: s32'Leo402Eff3'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    Unknown35: 23, s32'Death'
+    endUpon: 
+  sprite: s32'null', 15
+  Unknown1769: 1
+  Unknown450: s32'leo_402slash02'
+  Unknown32: s32'Leo402Eff2'
+  sprite: s32'null', 2147483647
+  Unknown1769: 0
+  setMarker: s32'Death'
+  sprite: s32'null', 2
+  Unknown1769: 0
+  sprite: s32'null', 5
+  Unknown450: s32'leo_402slashDelete'
+  sprite: s32'null', 5
+  Unknown448: s32'leo_402slashDelete2', 100
+  sprite: s32'null', 5
+  Unknown448: s32'leo_402slashDelete2', 100
+  sprite: s32'null', 5
+  Unknown448: s32'leo_402slashDelete2', 100
+  endState: 
+
+startState: s32'Leo403Eff'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    flipDirection: 
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_403slash'
+  endState: 
+
+startState: s32'Leo403Eff2'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    flipDirection: 
+    Unknown1769: 1
+    endUpon: 
+  sprite: s32'null', 10
+  Unknown1769: 1
+  Unknown450: s32'leo_403slash2'
+  Unknown32: s32'Leo403Eff'
+  sprite: s32'null', 60
+  Unknown1769: 0
+  endState: 
+
+startState: s32'Leo404Bake'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    Unknown294: 1
+    flipDirection: 
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_404bake'
+  endState: 
+
+startState: s32'Leo404BakeEff'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    flipDirection: 
+    endUpon: 
+  sprite: s32'null', 4
+  Unknown450: s32'leo_404slasheff'
+  sprite: s32'null', 3
+  Unknown456: 2
+  sprite: s32'null', 1
+  Unknown448: s32'leo405slashEnd', 100
+  endState: 
+
+startState: s32'Leo405Bake_1st'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_405slash_1st'
+  endState: 
+
+startState: s32'Leo405Bake'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    flipDirection: 
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_405bake'
+  endState: 
+
+startState: s32'Leo405BakeEff'
+  upon: (IMMEDIATE)
+    flipDirection: 
+    Unknown35: 23, s32'Del'
+    Unknown457: 2
+    endUpon: 
+  sprite: s32'null', 45
+  Unknown450: s32'leo_405slasheff'
+  setMarker: s32'Del'
+  sprite: s32'null', 1
+  Unknown338: 0
+  Unknown448: s32'leo405_slashDel', 100
+  Unknown3: 
+  endState: 
+
+startState: s32'leo_405hit'
+  upon: (IMMEDIATE)
+    endUpon: 
+  sprite: s32'null', 45
+  Unknown448: s32'leo_405hit', 100
+  endState: 
+
+startState: s32'Leo406Bake'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    Unknown456: 2
+    flipDirection: 
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_406bake'
+  endState: 
+
+startState: s32'Leo406rakka'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_406rakka'
+  endState: 
+
+startState: s32'Leo407Rock'
+  upon: (IMMEDIATE)
+    Unknown456: 2
+    Unknown454: 2
+    Unknown457: 2
+    endUpon: 
+  sprite: s32'null', 3
+  Unknown450: s32'leo_407RockStop'
+  sprite: s32'null', 1
+  Unknown338: 0
+  Unknown448: s32'leo_407Rock', 100
+  endState: 
+
+startState: s32'Leo407Eff00'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_407slash00'
+  endState: 
+
+startState: s32'Leo407Eff01'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_407slash01'
+  Unknown32: s32'Leo407Eff00'
+  endState: 
+
+startState: s32'Leo407Eff02'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_407slash02'
+  Unknown32: s32'Leo407Eff01'
+  endState: 
+
+startState: s32'Leo407Eff03'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_407slash03'
+  Unknown32: s32'Leo407Eff02'
+  endState: 
+
+startState: s32'Leo407Eff04'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown448: s32'leo_407slash04', 100
+  Unknown32: s32'Leo407Eff03'
+  endState: 
+
+startState: s32'Leo413Bake'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    Unknown456: 2
+    flipDirection: 
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_413bake'
+  endState: 
+
+startState: s32'Leo418Bake'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    flipDirection: 
+    endUpon: 
+  sprite: s32'null', 4
+  Unknown450: s32'leo_418bake'
+  Unknown1769: 1
+  Unknown365: 10000, 10000
+  sprite: s32'null', 2147483647
+  Unknown1769: 0
+  endState: 
+
+startState: s32'Leo415Bake'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    endUpon: 
+  sprite: s32'null', 3
+  Unknown450: s32'leo_415crossStop'
+  Unknown1769: 1
+  sprite: s32'null', 2147483647
+  Unknown456: 2
+  Unknown1769: 0
+  endState: 
+
+startState: s32'Leo416SlashEff'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    Unknown456: 2
+    Unknown35: 23, s32'Death'
+    endUpon: 
+  setMarker: s32'Loops'
+  sprite: s32'null', 3
+  Unknown450: s32'leo_416slash00'
+  setMarker: s32'Death'
+  sprite: s32'null', 1
+  Unknown338: 0
+  Unknown448: s32'leo_416slash01', 100
+  endState: 
+
+startState: s32'Leo417Eff'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    Unknown99: -50000
+    Unknown35: 23, s32'Del'
+    Unknown35: 24, s32'End'
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_417aura00'
+  setMarker: s32'Del'
+  sprite: s32'null', 1
+  Unknown448: s32'leo_417EffDel', 100
+  Unknown3: 
+  setMarker: s32'End'
+  sprite: s32'null', 1
+  Unknown3: 
+  endState: 
+
+startState: s32'Leo418Bake2'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    flipDirection: 
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_418bake2'
+  Unknown448: s32'leo_418slash', 100
+  endState: 
+
+startState: s32'Leo419SlashEff'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    Unknown456: 2
+    Unknown35: 23, s32'Death'
+    endUpon: 
+  setMarker: s32'Loops'
+  sprite: s32'null', 2
+  Unknown450: s32'leo_419slash00'
+  sprite: s32'null', 2
+  Unknown450: s32'leo_419slash01'
+  sprite: s32'null', 2
+  Unknown450: s32'leo_419slash02'
+  sprite: s32'null', 2
+  Unknown3: 
+  goToMarker: s32'Loops'
+  setMarker: s32'Death'
+  sprite: s32'null', 1
+  Unknown448: s32'leo_419slashDel', 100
+  endState: 
+
+startState: s32'Leo420Bake'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    flipDirection: 
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown365: 5000, 5000
+  Unknown450: s32'leo_420bake'
+  endState: 
+
+startState: s32'Leo420SlashEff'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    flipDirection: 
+    Unknown35: 23, s32'Dead'
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown450: s32'leo_420slashStop'
+  setMarker: s32'Dead'
+  sprite: s32'null', 1
+  Unknown448: s32'leo_420slash', 100
+  Unknown3: 
+  endState: 
+
+startState: s32'Leo420Rock'
+  upon: (IMMEDIATE)
+    Unknown94: 300000
+    Unknown1700: -300000
+    endUpon: 
+  sprite: s32'null', 1
+  Unknown448: s32'leo_420rock', 100
+  endState: 
+
+startState: s32'Leo430Eff00'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    Unknown35: 23, s32'Del'
+    endUpon: 
+  sprite: s32'null', 10
+  Unknown1769: 1
+  Unknown450: s32'leo_430slash00'
+  sprite: s32'null', 2147483647
+  Unknown1769: 0
+  setMarker: s32'Del'
+  sprite: s32'null', 1
+  Unknown338: 0
+  Unknown448: s32'leo_430slashDel00', 100
+  endState: 
+
+startState: s32'Leo430Eff01'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    Unknown35: 23, s32'Del'
+    endUpon: 
+  sprite: s32'null', 10
+  Unknown1769: 1
+  Unknown450: s32'leo_430slash01'
+  sprite: s32'null', 2147483647
+  Unknown1769: 0
+  setMarker: s32'Del'
+  sprite: s32'null', 1
+  Unknown338: 0
+  Unknown448: s32'leo_430slashDel01', 100
+  endState: 
+
+startState: s32'Leo430Eff02'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    Unknown35: 23, s32'Del'
+    endUpon: 
+  sprite: s32'null', 10
+  Unknown1769: 1
+  Unknown450: s32'leo_430slash02'
+  sprite: s32'null', 2147483647
+  Unknown1769: 0
+  setMarker: s32'Del'
+  sprite: s32'null', 1
+  Unknown338: 0
+  Unknown448: s32'leo_430slashDel02', 100
+  endState: 
+
+startState: s32'Leo430Eff03'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    Unknown35: 23, s32'Del'
+    endUpon: 
+  sprite: s32'null', 10
+  Unknown1769: 1
+  Unknown450: s32'leo_430slash03'
+  sprite: s32'null', 2147483647
+  Unknown1769: 0
+  setMarker: s32'Del'
+  sprite: s32'null', 1
+  Unknown338: 0
+  Unknown448: s32'leo_430slashDel03', 100
+  endState: 
+
+startState: s32'Leo430Eff04'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    Unknown35: 23, s32'Del'
+    endUpon: 
+  sprite: s32'null', 10
+  Unknown1769: 1
+  Unknown450: s32'leo_430slash04'
+  sprite: s32'null', 2147483647
+  Unknown1769: 0
+  setMarker: s32'Del'
+  sprite: s32'null', 1
+  Unknown338: 0
+  Unknown448: s32'leo_430slashDel04', 100
+  endState: 
+
+startState: s32'leo_430hit'
+  upon: (IMMEDIATE)
+    Unknown1769: 1
+    Unknown295: 1
+    Unknown450: s32'leo_430HitEff'
+    endUpon: 
+  sprite: s32'null', 45
+  endState: 
+
+startState: s32'leo_430hit2'
+  upon: (IMMEDIATE)
+    Unknown1769: 1
+    Unknown295: 1
+    Unknown450: s32'leo_430HitEff'
+    Unknown164: 30000
+    endUpon: 
+  sprite: s32'null', 45
+  endState: 
+
+startState: s32'leo_430hit3'
+  upon: (IMMEDIATE)
+    Unknown1769: 1
+    Unknown295: 1
+    Unknown450: s32'leo_430HitEff'
+    Unknown164: -30000
+    endUpon: 
+  sprite: s32'null', 45
+  endState: 
+
+startState: s32'leo_430hit4'
+  upon: (IMMEDIATE)
+    Unknown1769: 1
+    Unknown295: 1
+    Unknown450: s32'leo_430HitEff'
+    Unknown164: 45000
+    endUpon: 
+  sprite: s32'null', 45
+  endState: 
+
+startState: s32'leo_430hit5'
+  upon: (IMMEDIATE)
+    Unknown1769: 1
+    Unknown295: 1
+    Unknown450: s32'leo_430HitEffFin'
+    Unknown164: 45000
+    Unknown1700: -100000
+    endUpon: 
+  sprite: s32'null', 45
+  Unknown365: 20000, 20000
+  sprite: s32'null', 15
+  endState: 
+
+startState: s32'Edgeyowai'
+  upon: (IMMEDIATE)
+    Unknown244: 
+    Unknown1602: 1
+    Unknown1602: 2
+    Unknown58: 1
+    attackLevel: 2
+    damage: 16
+    riscPlus: 3
+    tensionGainOnConnect: 20
+    setAttachOpponent: 1
+    Unknown1153: 1
+    Unknown1112: 0
+    Unknown1110: 1
+    Unknown2178: 
+    numberOfHits: 2
+    Unknown2180: 1
+    Unknown2181: 1
+    Unknown2182: 1
+    Unknown2183: 1
+    upon: 45
+      Unknown19: 23
+      createObject2: s32'Leo400_endeffWeak', 100
+      endUpon: 
+    upon: (FRAME_STEP)
+      ifOperation: (IS_GREATER_OR_EQUAL), (NEXT_ARG_IS_VAR), 105, 0, 35
+        Unknown19: 23
+        Unknown23: 3
+        createObject2: s32'Leo400_endeffWeak', 100
+        endIf: 
+      endUpon: 
+    endUpon: 
+  sprite: s32'null', 4
+  Unknown2185: 1
+  sprite: s32'Edge1', 3
+  Unknown2185: 0
+  hit: 
+  physicsXImpulse: 1000
+  createObject2: s32'Leo400_starteff', 100
+  setMarker: s32'loop'
+  sprite: s32'keep', 3
+  physicsXImpulse: 32000
+  hit: 
+  Unknown3: 
+  goToMarker: s32'loop'
+  endState: 
+
+startState: s32'Leo400_starteff'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown455: 2
+    Unknown457: 2
+    Unknown1700: 100000
+    Unknown450: s32'leo_400starteff'
+    endUpon: 
+  sprite: s32'null', 10
+  Unknown2161: 100, 300000, 0
+  Unknown1769: 1
+  Unknown448: s32'leo_400hibana', 130
+  setObjectSize: 800
+  Unknown99: 50000
+  sprite: s32'null', 2147483647
+  Unknown1769: 0
+  Unknown456: 2
+  endState: 
+
+startState: s32'Leo400_endeffWeak'
+  upon: (IMMEDIATE)
+    Unknown1700: 100000
+    Unknown99: 100000
+    setObjectSize: 700
+    endUpon: 
+  sprite: s32'null', 13
+  Unknown1769: 1
+  Unknown450: s32'leo_400endeff'
+  sprite: s32'null', 50
+  Unknown1769: 0
+  endState: 
+
+startState: s32'Leo400_endeff'
+  upon: (IMMEDIATE)
+    Unknown1700: 100000
+    endUpon: 
+  sprite: s32'null', 13
+  Unknown1769: 1
+  Unknown450: s32'leo_400endeff'
+  sprite: s32'null', 50
+  Unknown1769: 0
+  endState: 
+
+startState: s32'Edgetuyoi'
+  upon: (IMMEDIATE)
+    Unknown244: 
+    Unknown1602: 1
+    Unknown1602: 2
+    Unknown58: 1
+    attackLevel: 2
+    damage: 16
+    riscPlus: 3
+    tensionGainOnConnect: 20
+    setAttachOpponent: 1
+    Unknown1153: 1
+    Unknown1112: 0
+    Unknown1110: 1
+    Unknown2178: 
+    numberOfHits: 4
+    Unknown2180: 1
+    Unknown2181: 1
+    Unknown2182: 1
+    Unknown2183: 1
+    Unknown2185: 1
+    upon: 45
+      Unknown19: 23
+      createObject2: s32'Leo400_endeff', 100
+      endUpon: 
+    upon: (FRAME_STEP)
+      ifOperation: (IS_GREATER_OR_EQUAL), (NEXT_ARG_IS_VAR), 7, 0, 20000
+        Unknown23: 3
+        Unknown14: s32'End'
+        endIf: 
+      endUpon: 
+    endUpon: 
+  sprite: s32'Edge2', 10
+  createObject2: s32'Leo400_starteffEX', 100
+  sprite: s32'Edge2', 5
+  hit: 
+  upon: (FRAME_STEP)
+    addVelocityX: 150
+    ifOperation: (IS_GREATER_OR_EQUAL), (NEXT_ARG_IS_VAR), 7, 0, 20000
+      Unknown23: 3
+      Unknown14: s32'End'
+      endIf: 
+    endUpon: 
+  sprite: s32'keep', 3
+  hit: 
+  setMarker: s32'loop'
+  sprite: s32'keep', 3
+  Unknown111: 110
+  hit: 
+  Unknown3: 
+  goToMarker: s32'loop'
+  setMarker: s32'End'
+  sprite: s32'keep', 3
+  hit: 
+  Unknown3: 
+  goToMarker: s32'End'
+  endState: 
+
+startState: s32'Leo400_starteffEX'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown455: 2
+    Unknown457: 2
+    Unknown1700: 100000
+    Unknown450: s32'leo_400jizokuEX'
+    endUpon: 
+  sprite: s32'null', 10
+  Unknown1769: 1
+  Unknown448: s32'leo_400hibana', 100
+  setMarker: s32'loop'
+  sprite: s32'null', 8
+  Unknown448: s32'leo_400hibana', 100
+  Unknown1769: 0
+  Unknown456: 2
+  Unknown3: 
+  goToMarker: s32'loop'
+  endState: 
+
+startState: s32'Neoblitz_atk'
+  upon: (IMMEDIATE)
+    Unknown457: 2
+    Unknown454: 2
+    Unknown456: 2
+    Unknown450: s32'leo_neoblitz'
+    endUpon: 
+  sprite: s32'null', 80
+  endState: 
+
+startState: s32'SemukeKakusei_Obj'
+  upon: (IMMEDIATE)
+    Unknown245: 
+    attackLevel: 4
+    damage: 130
+    stunValue: 65
+    if: (NEXT_ARG_IS_VAR), 115
+      damage: 162
+      stunValue: 65
+      Unknown1177: 1
+      Unknown1179: 1
+      Unknown1086: 60
+      Unknown1165: s32'SemukeKakusei_Obj_Burst'
+      endIf: 
+    hitAirPushbackX: 20000
+    hitAirPushbackY: 40000
+    counterhitAirPushbackX: 30000
+    counterhitAirPushbackY: 60000
+    groundHitEffect: 12
+    airHitEffect: 12
+    untechableTime: 45
+    setForcedProration: 80
+    riscMinus: 10
+    Unknown1154: 1
+    Unknown450: s32'leo_431jizoku10'
+    Unknown99: -80000
+    physicsXImpulse: 70000
+    if: (NEXT_ARG_IS_VAR), 84
+      Unknown287: 1
+      upon: 46
+        flipDirection: 
+        Unknown111: -100
+        Unknown287: 0
+        hit: 
+        Unknown1051: 0
+        endUpon: 
+      endIf: 
+    Unknown58: 1
+    upon: (HIT)
+      if: (NEXT_ARG_IS_VAR), 115
+        ifNot: 2, 45
+          storeValue: (NEXT_ARG_IS_VAR), 45, 0, 1
+          Unknown2130: 5000
+          endIf: 
+        endIf: 
+      endUpon: 
+    endUpon: 
+  setMarker: s32'loop'
+  sprite: s32'Edge_Kakusei', 2147483647
+  createObject2: s32'SemukeKakusei_Smoke', 100
+  hit: 
+  endState: 
+
+startState: s32'SemukeKakusei_Smoke'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    Unknown99: 100000
+    endUpon: 
+  setMarker: s32'loop'
+  sprite: s32'null', 5
+  Unknown448: s32'leo_400hibana', 100
+  Unknown448: s32'leo_431nokosi', 100
+  Unknown3: 
+  goToMarker: s32'loop'
+  endState: 
+
+startState: s32'SemukeKakusei_Rotate'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    endUpon: 
+  setMarker: s32'loop'
+  sprite: s32'null', 4
+  Unknown450: s32'leo_431jizoku10'
+  sprite: s32'null', 4
+  Unknown450: s32'leo_431jizoku20'
+  sprite: s32'null', 4
+  Unknown450: s32'leo_431jizoku30'
+  Unknown3: 
+  goToMarker: s32'loop'
+  endState: 
+
+startState: s32'leo431_loopbake'
+  upon: (IMMEDIATE)
+    Unknown454: 2
+    Unknown457: 2
+    endUpon: 
+  setMarker: s32'loop'
+  sprite: s32'null', 4
+  Unknown448: s32'leo_431bake_nokosi', 100
+  Unknown450: s32'leo_431bake00'
+  sprite: s32'null', 4
+  Unknown450: s32'leo_431bake01'
+  Unknown3: 
+  goToMarker: s32'loop'
+  endState: 
+
+startState: s32'615_gtbd'
+  upon: (IMMEDIATE)
+    Unknown451: s32'leo_gtbd', s32''
+    Unknown2157: 0, 5
+    upon: (FRAME_STEP)
+      Unknown60: '0x030000007B000000170000007B000000'
+      ifOperation: (IS_LESSER), (NEXT_ARG_IS_VAR), 0, 0, 400000
+        Unknown1766: 3, 23
+        Unknown1766: 5, 23
+        physicsXImpulse: 0
+        Unknown14: s32'gtbd_stop'
+        Unknown23: 3
+        endIf: 
+      endUpon: 
+    endUpon: 
+  sprite: s32'gtbd615_01_00', 1
+  createObject2: s32'615_chair', 100
+  Unknown43: 5, 1
+  setMarker: s32'loop_walk'
+  sprite: s32'gtbd615_01_00', 4
+  physicsXImpulse: 10000
+  sprite: s32'gtbd615_01_01', 4
+  sprite: s32'gtbd615_01_02', 4
+  playSFX: s32'SE_JUMPLANDC'
+  sprite: s32'gtbd615_01_03', 4
+  sprite: s32'gtbd615_01_04', 4
+  sprite: s32'gtbd615_01_05', 4
+  sprite: s32'gtbd615_01_06', 4
+  sprite: s32'gtbd615_01_07', 4
+  playSFX: s32'SE_JUMPLANDC'
+  sprite: s32'gtbd615_01_08', 4
+  sprite: s32'gtbd615_01_09', 4
+  Unknown3: 
+  goToMarker: s32'loop_walk'
+  setMarker: s32'gtbd_stop'
+  sprite: s32'gtbd615_02_00', 6
+  Unknown178: 3
+  sprite: s32'gtbd615_02_01', 6
+  sprite: s32'gtbd615_02_02', 6
+  sprite: s32'gtbd615_02_03', 4
+  sprite: s32'gtbd615_02_04', 4
+  sprite: s32'gtbd615_02_05', 4
+  playSFX: s32'SE_JUMPLANDC'
+  sprite: s32'gtbd615_02_06', 4
+  sprite: s32'gtbd615_02_07', 10
+  ifOperation: (IS_EQUAL), (NEXT_ARG_IS_VAR), 6, 0, 5
+    physicsXImpulse: -30000
+    playSFX: s32'SE_SDASH'
+    endIf: 
+  sprite: s32'gtbd615_02_07', 8
+  Unknown176: 1
+  sprite: s32'gtbd615_02_08', 4
+  sprite: s32'gtbd615_02_09', 6
+  sprite: s32'gtbd615_02_10', 6
+  sprite: s32'gtbd615_02_11', 6
+  sprite: s32'gtbd615_02_12', 4
+  sprite: s32'gtbd615_02_13', 4
+  sprite: s32'gtbd615_02_14', 4
+  sprite: s32'gtbd615_02_15', 4
+  sprite: s32'gtbd615_02_16', 4
+  sprite: s32'gtbd615_02_17', 4
+  sprite: s32'gtbd615_02_18', 4
+  sprite: s32'gtbd615_02_19', 4
+  sprite: s32'gtbd615_02_20', 4
+  sprite: s32'gtbd615_02_21', 4
+  sprite: s32'gtbd615_02_22', 2147483647
+  endState: 
+
+startState: s32'615_chair'
+  upon: (IMMEDIATE)
+    Unknown94: -34000
+    Unknown1700: -20000
+    Unknown451: s32'leo_chair', s32''
+    Unknown454: 2
+    Unknown2157: 0, 5
+    upon: (ON_HIT_OR_BLOCK)
+      Unknown14: s32'chair_stop'
+      endUpon: 
+    endUpon: 
+  setMarker: s32'loop_walk'
+  sprite: s32'chair615_01_00', 4
+  sprite: s32'chair615_01_01', 4
+  sprite: s32'chair615_01_02', 4
+  sprite: s32'chair615_01_03', 4
+  sprite: s32'chair615_01_04', 4
+  sprite: s32'chair615_01_05', 4
+  sprite: s32'chair615_01_06', 4
+  sprite: s32'chair615_01_07', 4
+  sprite: s32'chair615_01_08', 4
+  sprite: s32'chair615_01_09', 4
+  Unknown3: 
+  goToMarker: s32'loop_walk'
+  setMarker: s32'chair_stop'
+  sprite: s32'chair615_02_00', 6
+  sprite: s32'chair615_02_01', 6
+  sprite: s32'chair615_02_02', 6
+  sprite: s32'chair615_02_03', 4
+  sprite: s32'chair615_02_04', 4
+  sprite: s32'chair615_02_05', 4
+  sprite: s32'chair615_02_06', 4
+  sprite: s32'chair615_02_07', 18
+  sprite: s32'chair615_02_08', 4
+  sprite: s32'chair615_02_09', 6
+  sprite: s32'chair615_02_10', 6
+  sprite: s32'chair615_02_11', 6
+  sprite: s32'chair615_02_12', 4
+  sprite: s32'chair615_02_13', 4
+  sprite: s32'chair615_02_14', 4
+  sprite: s32'chair615_02_15', 4
+  sprite: s32'chair615_02_16', 4
+  sprite: s32'chair615_02_17', 4
+  sprite: s32'chair615_02_18', 4
+  sprite: s32'chair615_02_19', 4
+  sprite: s32'chair615_02_20', 4
+  sprite: s32'chair615_02_21', 4
+  sprite: s32'chair615_02_22', 2147483647
+  endState: 
+
+startState: s32'616gtbd01'
+  upon: (IMMEDIATE)
+    Unknown451: s32'leo_gtbd', s32''
+    upon: (FRAME_STEP)
+      Unknown60: '0x030000007B000000170000007B000000'
+      ifOperation: (IS_LESSER), (NEXT_ARG_IS_VAR), 0, 0, 420000
+        Unknown1766: 3, 23
+        Unknown1766: 5, 23
+        physicsXImpulse: 0
+        Unknown14: s32'gtbd_stop'
+        Unknown23: 3
+        endIf: 
+      endUpon: 
+    endUpon: 
+  sprite: s32'gtbd616_01_00', 1
+  createObject2: s32'616teawagon', 100
+  Unknown43: 5, 1
+  Unknown3: 
+  setMarker: s32'loop_walk'
+  sprite: s32'gtbd616_01_00', 4
+  physicsXImpulse: 10000
+  sprite: s32'gtbd616_01_01', 4
+  playSFX: s32'SE_JUMPLANDC'
+  sprite: s32'gtbd616_01_02', 4
+  sprite: s32'gtbd616_01_03', 4
+  sprite: s32'gtbd616_01_04', 4
+  sprite: s32'gtbd616_01_05', 4
+  sprite: s32'gtbd616_01_06', 4
+  playSFX: s32'SE_JUMPLANDC'
+  sprite: s32'gtbd616_01_07', 4
+  sprite: s32'gtbd616_01_08', 4
+  sprite: s32'gtbd616_01_09', 4
+  Unknown3: 
+  goToMarker: s32'loop_walk'
+  setMarker: s32'gtbd_stop'
+  sprite: s32'gtbd616_02_00', 4
+  Unknown178: 3
+  sprite: s32'gtbd616_02_01', 4
+  playSFX: s32'SE_GUARDA'
+  sprite: s32'gtbd616_02_02', 4
+  sprite: s32'gtbd616_02_03', 4
+  sprite: s32'gtbd616_02_04', 4
+  sprite: s32'gtbd616_02_05', 4
+  sprite: s32'gtbd616_02_06', 4
+  playSFX: s32'SE_GUARDA'
+  sprite: s32'gtbd616_02_07', 4
+  sprite: s32'gtbd616_02_08', 4
+  sprite: s32'gtbd616_02_09', 4
+  sprite: s32'gtbd616_02_10', 4
+  sprite: s32'gtbd616_02_11', 4
+  sprite: s32'gtbd616_02_12', 4
+  sprite: s32'gtbd616_02_13', 4
+  sprite: s32'gtbd616_02_14', 4
+  sprite: s32'gtbd616_02_15', 4
+  playSFX: s32'GG2_015'
+  sprite: s32'gtbd616_02_16', 4
+  sprite: s32'gtbd616_02_17', 4
+  sprite: s32'gtbd616_02_18', 4
+  sprite: s32'gtbd616_02_19', 4
+  sprite: s32'gtbd616_02_20', 4
+  sprite: s32'gtbd616_02_21', 4
+  sprite: s32'gtbd616_02_22', 4
+  sprite: s32'gtbd616_02_23', 4
+  sprite: s32'gtbd616_02_24', 4
+  sprite: s32'gtbd616_02_25', 4
+  sprite: s32'gtbd616_02_26', 4
+  sprite: s32'gtbd616_02_27', 4
+  sprite: s32'gtbd616_02_28', 4
+  sprite: s32'gtbd616_02_29', 4
+  sprite: s32'gtbd616_02_30', 4
+  sprite: s32'gtbd616_02_31', 4
+  sprite: s32'gtbd616_02_32', 4
+  sprite: s32'gtbd616_02_33', 4
+  sprite: s32'gtbd616_02_34', 4
+  sprite: s32'gtbd616_02_35', 4
+  sprite: s32'gtbd616_02_36', 4
+  sprite: s32'gtbd616_02_37', 4
+  sprite: s32'gtbd616_02_38', 4
+  sprite: s32'gtbd616_02_39', 4
+  sprite: s32'gtbd616_02_40', 4
+  sprite: s32'gtbd616_02_41', 4
+  sprite: s32'gtbd616_02_42', 4
+  sprite: s32'gtbd616_02_43', 4
+  sprite: s32'gtbd616_02_44', 4
+  sprite: s32'gtbd616_02_45', 4
+  sprite: s32'gtbd616_02_46', 4
+  sprite: s32'gtbd616_02_47', 4
+  sprite: s32'gtbd616_02_48', 2147483647
+  endState: 
+
+startState: s32'616teawagon'
+  upon: (IMMEDIATE)
+    Unknown451: s32'leo_teawagon', s32''
+    upon: (ON_HIT_OR_BLOCK)
+      physicsXImpulse: 0
+      Unknown14: s32'wagon_stop'
+      endUpon: 
+    endUpon: 
+  setMarker: s32'loop_wagon'
+  sprite: s32'teawagon616_01_00', 4
+  physicsXImpulse: 10000
+  playSFX: s32'BED_002'
+  sprite: s32'teawagon616_01_01', 4
+  sprite: s32'teawagon616_01_02', 4
+  playSFX: s32'BED_002'
+  sprite: s32'teawagon616_01_03', 4
+  sprite: s32'teawagon616_01_04', 4
+  playSFX: s32'BED_002'
+  sprite: s32'teawagon616_01_05', 4
+  sprite: s32'teawagon616_01_06', 4
+  playSFX: s32'BED_002'
+  sprite: s32'teawagon616_01_07', 4
+  sprite: s32'teawagon616_01_08', 4
+  playSFX: s32'BED_002'
+  sprite: s32'teawagon616_01_09', 4
+  Unknown3: 
+  goToMarker: s32'loop_wagon'
+  setMarker: s32'wagon_stop'
+  sprite: s32'teawagon616_02_00', 6
+  Unknown178: 3
+  sprite: s32'teawagon616_02_01', 6
+  sprite: s32'teawagon616_02_02', 6
+  sprite: s32'teawagon616_02_03', 6
+  sprite: s32'teawagon616_02_04', 6
+  sprite: s32'teawagon616_02_05', 6
+  sprite: s32'teawagon616_02_06', 6
+  sprite: s32'teawagon616_02_07', 6
+  sprite: s32'teawagon616_02_08', 6
+  sprite: s32'teawagon616_02_09', 6
+  sprite: s32'teawagon616_02_10', 6
+  sprite: s32'teawagon616_02_11', 6
+  sprite: s32'teawagon616_02_12', 6
+  sprite: s32'teawagon616_02_13', 6
+  sprite: s32'teawagon616_02_14', 6
+  sprite: s32'teawagon616_02_15', 6
+  sprite: s32'teawagon616_02_16', 6
+  sprite: s32'teawagon616_02_17', 6
+  sprite: s32'teawagon616_02_18', 6
+  sprite: s32'teawagon616_02_19', 6
+  sprite: s32'teawagon616_02_20', 6
+  sprite: s32'teawagon616_02_21', 6
+  sprite: s32'teawagon616_02_22', 6
+  sprite: s32'teawagon616_02_23', 6
+  sprite: s32'teawagon616_02_24', 6
+  sprite: s32'teawagon616_02_25', 6
+  sprite: s32'teawagon616_02_26', 6
+  sprite: s32'teawagon616_02_27', 6
+  sprite: s32'teawagon616_02_28', 6
+  sprite: s32'teawagon616_02_29', 6
+  sprite: s32'teawagon616_02_30', 6
+  sprite: s32'teawagon616_02_31', 6
+  sprite: s32'teawagon616_02_32', 6
+  sprite: s32'teawagon616_02_33', 6
+  sprite: s32'teawagon616_02_34', 6
+  sprite: s32'teawagon616_02_35', 6
+  sprite: s32'teawagon616_02_36', 6
+  sprite: s32'teawagon616_02_37', 6
+  sprite: s32'teawagon616_02_38', 6
+  sprite: s32'teawagon616_02_39', 6
+  sprite: s32'teawagon616_02_40', 6
+  sprite: s32'teawagon616_02_41', 6
+  sprite: s32'teawagon616_02_42', 6
+  sprite: s32'teawagon616_02_43', 6
+  sprite: s32'teawagon616_02_44', 6
+  sprite: s32'teawagon616_02_45', 6
+  sprite: s32'teawagon616_02_46', 6
+  sprite: s32'teawagon616_02_47', 6
+  sprite: s32'teawagon616_02_48', 2147483647
+  endState: 
+
+startState: s32'Gtbd01_700cs'
+  upon: (IMMEDIATE)
+    Unknown457: 2
+    Unknown451: s32'leo_gtbd', s32'gtbd700cs_01'
+    Unknown2021: 0
+    endUpon: 
+  sprite: s32'null', 2147483647
+  endState: 
+
+startState: s32'Gtbd02_700cs'
+  upon: (IMMEDIATE)
+    Unknown457: 2
+    Unknown451: s32'leo_gtbd', s32'gtbd700cs_02'
+    Unknown2021: 0
+    endUpon: 
+  sprite: s32'null', 2147483647
+  endState: 
+
+startState: s32'431spin01'
+  upon: (IMMEDIATE)
+    Unknown294: 1
+    Unknown457: 2
+    Unknown451: s32'leo_431spin01', s32'leo431spin01'
+    Unknown2021: 0
+    endUpon: 
+  sprite: s32'null', 100
+  endState: 
+
+startState: s32'431spin02'
+  upon: (IMMEDIATE)
+    Unknown294: 1
+    Unknown457: 2
+    Unknown451: s32'leo_431spin02', s32'leo431spin02'
+    Unknown2021: 0
+    endUpon: 
+  sprite: s32'null', 100
+  endState: 
+
+startState: s32'Semuke5E_Reflect'
+  upon: (IMMEDIATE)
+    Unknown244: 
+    Unknown454: 3
+    Unknown457: 3
+    upon: (FRAME_STEP)
+      Unknown2156: 0
+      ifOperation: (IS_LESSER_OR_EQUAL), (NEXT_ARG_IS_VAR), 14, 0, 400000
+        ifOperation: (IS_LESSER_OR_EQUAL), (NEXT_ARG_IS_VAR), 15, 0, 500000
+          Unknown2156: 1
+          endIf: 
+        endIf: 
+      endUpon: 
+    upon: 33
+      Unknown2156: 1
+      endUpon: 
+    upon: 65
+      Unknown2320: s32'Atemi_Reflect'
+      endUpon: 
+    endUpon: 
+  sprite: s32'leo417_00', 2
+  setStrikeInvul: 1
+  Unknown1058: 1
+  sprite: s32'leo417_01', 4
+  superArmorEnabled: 1
+  Unknown1808: 0
+  Unknown1825: 1
+  Unknown1827: 1
+  sprite: s32'leo417_02', 4
+  sprite: s32'leo417_03', 4
+  sprite: s32'leo417_04', 4
+  sprite: s32'leo417_05', 2
+  sprite: s32'leo417_05', 10
+  superArmorEnabled: 0
+  sprite: s32'leo417_06', 3
+  endState: 
+
+startState: s32'431cutscene'
+  upon: (IMMEDIATE)
+    Unknown294: 1
+    endUpon: 
+  sprite: s32'null', 150
+  Unknown450: s32'leo_431cutscene'
+  endState: 
+
+startState: s32'BG_ichigeki'
+  upon: (IMMEDIATE)
+    Unknown457: 2
+    Unknown450: s32'leo_ichigeki_bg'
+    endUpon: 
+  sprite: s32'null', 2147483647
+  endState: 
+
+startState: s32'IK_Rasen_1st'
+  upon: (IMMEDIATE)
+    Unknown457: 2
+    Unknown450: s32'leo_ichigeki_rasen1st'
+    endUpon: 
+  sprite: s32'null', 2147483647
+  endState: 
+
+startState: s32'IK_Speedline_1st'
+  upon: (IMMEDIATE)
+    Unknown457: 2
+    Unknown450: s32'leo_ichigeki_speedline1st'
+    endUpon: 
+  sprite: s32'null', 2147483647
+  endState: 
+
+startState: s32'IK_Explosion'
+  upon: (IMMEDIATE)
+    Unknown457: 2
+    setObjectSize: 3800
+    Unknown450: s32'leo_ichigeki_explosion'
+    endUpon: 
+  sprite: s32'null', 200
+  endState: 
+
+startState: s32'ACEvtLEO_7A'
+  upon: (IMMEDIATE)
+    Unknown2114: -16777216, -16777216, 1
+    Unknown2116: 1000
+    Unknown2075: 1
+    Unknown2107: '0x4576656E744C454F3037415F303100000000000000000000000000000000000000000000'
+    Unknown2107: '0x4576656E745374616E640000000000000000000000000000000000000000000001000000'
+    Unknown2109: '0x636D6E5F6576745F67746264000000000000000000000000000000000000000047544244000000000000000000000000000000000000000000000000000000006400000002000000'
+    Unknown2121: 2
+    Unknown94: -300000
+    Unknown1700: -300000
+    Unknown232: -45000
+    Unknown40: 
+    Unknown2109: '0x636D6E5F6576745F63726E73000000000000000000000000000000000000000043524E53000000000000000000000000000000000000000000000000000000006400000003000000'
+    Unknown2121: 3
+    Unknown94: 800000
+    Unknown1700: -100000
+    Unknown232: 60000
+    Unknown40: 
+    endUpon: 
+  sprite: s32'null', 1
+  Unknown2123: s32'BGM_Elegance'
+  Unknown2123: s32'BGM_HEIJI2'
+  Unknown2122: 
+  sprite: s32'null', 90
+  Unknown2113: '0x4143325F4C454F5F4237415F3030315F3000000000000000000000000000000080020000680100003C000000B40000003C000000'
+  sprite: s32'null', 140
+  Unknown2114: -16777216, 0, 60
+  Unknown2107: '0x4576656E744C454F3037415F303100000000000000000000000000000000000001000000'
+  Unknown2107: '0x636D6E5F6576745F63726E73303031000000000000000000000000000000000003000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4237415F30303200000000000000000000000000000000001E000000'
+  Unknown2107: '0x4576656E744641553038415F303100000000000000000000000000000000000001000000'
+  Unknown2107: '0x636D6E5F6576745F63726E73000000000000000000000000000000000000000003000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4237415F30303300000000000000000000000000000000001E000000'
+  Unknown2107: '0x4576656E744641553038415F303100000000000000000000000000000000000000000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4237415F30303400000000000000000000000000000000001E000000'
+  sprite: s32'null', 2147483647
+  Unknown2120: '0x456C6567616E636500000000000000000000000000000000000000000000000000000000'
+  Unknown2115: 40, 0
+  Unknown2106: '0x4143325F4C454F5F4237415F30303500000000000000000000000000000000001E000000'
+  Unknown2107: '0x4576656E744641553038415F303200000000000000000000000000000000000000000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4237415F30303600000000000000000000000000000000001E000000'
+  Unknown2107: '0x4576656E744641553038415F303300000000000000000000000000000000000000000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4237415F30303700000000000000000000000000000000001E000000'
+  Unknown2107: '0x4576656E744641553038415F303200000000000000000000000000000000000001000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4237415F30303800000000000000000000000000000000001E000000'
+  Unknown2107: '0x4576656E744641553038415F303400000000000000000000000000000000000000000000'
+  Unknown2115: 0, 120
+  sprite: s32'null', 320
+  Unknown2106: '0x4143325F4C454F5F4237415F30303900000000000000000000000000000000001E000000'
+  Unknown2107: '0x4576656E744641553038415F303300000000000000000000000000000000000001000000'
+  sprite: s32'null', 2147483647
+  Unknown2120: '0x6D61696E0000000000000000000000000000000000000000000000000000000000000000'
+  Unknown2115: 40, 0
+  Unknown2106: '0x4143325F4C454F5F4237415F30313000000000000000000000000000000000001E000000'
+  Unknown2107: '0x4576656E744641553038415F303500000000000000000000000000000000000000000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4237415F30313100000000000000000000000000000000001E000000'
+  Unknown2107: '0x4576656E744641553038415F303600000000000000000000000000000000000000000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4237415F30313200000000000000000000000000000000001E000000'
+  Unknown2107: '0x636D6E5F6576745F67746264303033000000000000000000000000000000000002000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4237415F30313300000000000000000000000000000000001E000000'
+  Unknown2107: '0x4576656E744641553038415F303700000000000000000000000000000000000000000000'
+  Unknown2107: '0x4576656E744641553038415F303400000000000000000000000000000000000001000000'
+  sprite: s32'null', 10
+  sprite: s32'null', 10
+  Unknown2114: 0, -16777216, 10
+  sprite: s32'null', 1
+  Unknown2108: 
+  endState: 
+
+startState: s32'ACEvtLEO_7B'
+  upon: (IMMEDIATE)
+    Unknown2114: -16777216, 0, 30
+    Unknown2075: 1
+    Unknown2107: '0x4576656E745374616E640000000000000000000000000000000000000000000000000000'
+    Unknown2121: 0
+    Unknown94: 300000
+    Unknown99: 400000
+    Unknown40: 
+    Unknown2121: 1
+    Unknown40: 
+    Unknown2109: '0x636D6E5F6576745F67746264000000000000000000000000000000000000000047544244000000000000000000000000000000000000000000000000000000006400000002000000'
+    Unknown2121: 2
+    Unknown94: 0
+    Unknown232: -40000
+    Unknown40: 
+    Unknown2109: '0x636D6E5F6576745F63726E73000000000000000000000000000000000000000043524E53000000000000000000000000000000000000000000000000000000006400000003000000'
+    Unknown2121: 3
+    Unknown94: 700000
+    Unknown232: 45000
+    Unknown40: 
+    endUpon: 
+  sprite: s32'null', 1
+  Unknown2120: '0x4845494A4932000000000000000000000000000000000000000000000000000000000000'
+  Unknown2115: 60, 0
+  sprite: s32'null', 120
+  Unknown2107: '0x4576656E744C454F3037425F303000000000000000000000000000000000000000000000'
+  Unknown2107: '0x4576656E744C454F3037425F303100000000000000000000000000000000000001000000'
+  Unknown2107: '0x636D6E5F6576745F63726E73303032000000000000000000000000000000000003000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4237425F30303100000000000000000000000000000000001E000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4237425F30303200000000000000000000000000000000001E000000'
+  Unknown2107: '0x636D6E5F6576745F67746264303031000000000000000000000000000000000002000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4237425F30303300000000000000000000000000000000001E000000'
+  Unknown2107: '0x4576656E744C454F3037425F303100000000000000000000000000000000000000000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4237425F30303400000000000000000000000000000000001E000000'
+  Unknown2107: '0x636D6E5F6576745F67746264303031320000000000000000000000000000000002000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4237425F30303500000000000000000000000000000000001E000000'
+  Unknown2107: '0x4576656E744C454F3037425F303200000000000000000000000000000000000000000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4237425F30303600000000000000000000000000000000001E000000'
+  Unknown2107: '0x636D6E5F6576745F67746264303033000000000000000000000000000000000002000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4237425F30303700000000000000000000000000000000001E000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4237425F30303800000000000000000000000000000000001E000000'
+  Unknown2107: '0x636D6E5F6576745F67746264303034000000000000000000000000000000000002000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4237425F30303900000000000000000000000000000000001E000000'
+  Unknown2107: '0x4576656E744C454F3037425F303300000000000000000000000000000000000000000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4237425F30313000000000000000000000000000000000001E000000'
+  Unknown2107: '0x4576656E744C454F3037425F303400000000000000000000000000000000000000000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4237425F30313100000000000000000000000000000000001E000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4237425F30313200000000000000000000000000000000001E000000'
+  Unknown2107: '0x636D6E5F6576745F67746264303033000000000000000000000000000000000002000000'
+  sprite: s32'null', 10
+  sprite: s32'null', 10
+  Unknown2114: 0, -16777216, 10
+  sprite: s32'null', 1
+  Unknown2108: 
+  endState: 
+
+startState: s32'ACEvtLEO_8A'
+  upon: (IMMEDIATE)
+    Unknown2114: -16777216, -16777216, 1
+    Unknown2116: 1000
+    Unknown2107: '0x4576656E745374616E640000000000000000000000000000000000000000000000000000'
+    Unknown2107: '0x4576656E745374616E640000000000000000000000000000000000000000000001000000'
+    Unknown2109: '0x636D6E5F6576745F67746264000000000000000000000000000000000000000047544244000000000000000000000000000000000000000000000000000000006400000002000000'
+    Unknown2121: 2
+    Unknown94: -300000
+    Unknown1700: -300000
+    Unknown232: -45000
+    Unknown40: 
+    Unknown2109: '0x636D6E5F6576745F6D61793030300000000000000000000000000000000000004D415900000000000000000000000000000000000000000000000000000000006400000003000000'
+    Unknown2121: 3
+    Unknown94: 800000
+    Unknown1700: -100000
+    Unknown232: -2000
+    flipDirection: 
+    Unknown40: 
+    endUpon: 
+  sprite: s32'null', 1
+  Unknown2123: s32'BGM_MissionStart'
+  Unknown2123: s32'BGM_SeriousTalk'
+  Unknown2122: 
+  sprite: s32'null', 1
+  Unknown2120: '0x4D697373696F6E5374617274000000000000000000000000000000000000000000000000'
+  Unknown2115: 40, 0
+  sprite: s32'null', 90
+  Unknown2113: '0x4143325F4C454F5F4238415F3030315F3000000000000000000000000000000080020000680100003C000000B40000003C000000'
+  sprite: s32'null', 140
+  Unknown2114: -16777216, 0, 60
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4238415F30303200000000000000000000000000000000001E000000'
+  Unknown2107: '0x4576656E744C454F3038415F303100000000000000000000000000000000000000000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4238415F30303300000000000000000000000000000000001E000000'
+  Unknown2107: '0x4576656E744D41593038415F303200000000000000000000000000000000000000000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4238415F30303400000000000000000000000000000000001E000000'
+  Unknown2107: '0x4576656E744C454F3038415F303100000000000000000000000000000000000001000000'
+  Unknown2107: '0x636D6E5F6576745F6D617930303100000000000000000000000000000000000003000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4238415F30303500000000000000000000000000000000001E000000'
+  Unknown2107: '0x636D6E5F6576745F67746264303031000000000000000000000000000000000002000000'
+  sprite: s32'null', 2147483647
+  Unknown2115: 0, 120
+  Unknown2106: '0x4143325F4C454F5F4238415F30303600000000000000000000000000000000001E000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4238415F30303700000000000000000000000000000000001E000000'
+  Unknown2107: '0x4576656E744D41593038415F303300000000000000000000000000000000000000000000'
+  Unknown2107: '0x636D6E5F6576745F67746264303031320000000000000000000000000000000002000000'
+  sprite: s32'null', 210
+  Unknown2106: '0x4143325F4C454F5F4238415F30303800000000000000000000000000000000001E000000'
+  upon: (FRAME_STEP)
+    ifOperation: (IS_EQUAL), (NEXT_ARG_IS_VAR), 105, 0, 30
+      Unknown2107: '0x4576656E744C454F3038415F303200000000000000000000000000000000000000000000'
+      Unknown2107: '0x4576656E744C454F3038415F303200000000000000000000000000000000000001000000'
+      Unknown2107: '0x636D6E5F6576745F6D617930303200000000000000000000000000000000000003000000'
+      endIf: 
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4238415F30303900000000000000000000000000000000001E000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4238415F30313000000000000000000000000000000000001E000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4238415F30313100000000000000000000000000000000001E000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4238415F30313200000000000000000000000000000000001E000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4238415F30313300000000000000000000000000000000001E000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4238415F30313400000000000000000000000000000000001E000000'
+  Unknown2107: '0x4576656E744C454F3038415F303300000000000000000000000000000000000000000000'
+  Unknown2107: '0x4576656E744C454F3038415F303300000000000000000000000000000000000001000000'
+  Unknown2120: '0x6D61696E00000000000000000000000000000000000000000000000000000000F0000000'
+  Unknown2115: 40, 0
+  sprite: s32'null', 10
+  sprite: s32'null', 10
+  Unknown2114: 0, -16777216, 10
+  sprite: s32'null', 1
+  Unknown2108: 
+  endState: 
+
+startState: s32'ACEvtLEO_8B'
+  upon: (IMMEDIATE)
+    Unknown2114: -16777216, 0, 30
+    Unknown2116: 1000
+    Unknown2107: '0x4576656E745374616E640000000000000000000000000000000000000000000000000000'
+    Unknown2107: '0x4576656E745374616E640000000000000000000000000000000000000000000001000000'
+    Unknown2109: '0x636D6E5F6576745F6D61793030300000000000000000000000000000000000004D415900000000000000000000000000000000000000000000000000000000006400000003000000'
+    Unknown2121: 3
+    Unknown94: 600000
+    Unknown1700: -300000
+    Unknown232: -4000
+    flipDirection: 
+    Unknown40: 
+    Unknown2109: '0x636D6E5F6576745F6B756D6163000000000000000000000000000000000000004B554D41430000000000000000000000000000000000000000000000000000006400000004000000'
+    Unknown2121: 4
+    Unknown94: 300000
+    Unknown99: 1000000
+    Unknown40: 
+    endUpon: 
+  sprite: s32'null', 1
+  Unknown2120: '0x4D697373696F6E5374617274000000000000000000000000000000000000000000000000'
+  Unknown2115: 40, 0
+  sprite: s32'null', 20
+  sprite: s32'null', 116
+  Unknown2107: '0x4576656E744C454F3038425F303100000000000000000000000000000000000000000000'
+  Unknown2107: '0x4576656E744C454F3038425F303100000000000000000000000000000000000001000000'
+  sprite: s32'null', 120
+  Unknown2115: 0, 0
+  Unknown2106: '0x4143325F4C454F5F4238425F30303100000000000000000000000000000000001E000000'
+  Unknown2107: '0x636D6E5F6576745F6B756D61635F32000000000000000000000000000000000004000000'
+  playSFX: s32'GG2_060'
+  upon: (FRAME_STEP)
+    ifOperation: (IS_EQUAL), (NEXT_ARG_IS_VAR), 105, 0, 16
+      Unknown2107: '0x4576656E744C454F3038425F303200000000000000000000000000000000000000000000'
+      Unknown2107: '0x4576656E744C454F3038425F303200000000000000000000000000000000000001000000'
+      Unknown2107: '0x636D6E5F6576745F6D617930303600000000000000000000000000000000000003000000'
+      endIf: 
+    endUpon: 
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4238425F30303200000000000000000000000000000000001E000000'
+  Unknown2107: '0x636D6E5F6576745F6B756D61635F32310000000000000000000000000000000004000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4238425F30303300000000000000000000000000000000001E000000'
+  Unknown2107: '0x4576656E744C454F3038425F303300000000000000000000000000000000000000000000'
+  Unknown2107: '0x4576656E744C454F3038425F303300000000000000000000000000000000000001000000'
+  Unknown2107: '0x636D6E5F6576745F6D617930303700000000000000000000000000000000000003000000'
+  sprite: s32'null', 2147483647
+  Unknown2120: '0x536572696F757354616C6B00000000000000000000000000000000000000000000000000'
+  Unknown2115: 40, 0
+  Unknown2106: '0x4143325F4C454F5F4238425F30303400000000000000000000000000000000001E000000'
+  Unknown2107: '0x636D6E5F6576745F6B756D61635F33320000000000000000000000000000000004000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4238425F30303500000000000000000000000000000000001E000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4238425F30303600000000000000000000000000000000001E000000'
+  Unknown2107: '0x4576656E744C454F3038425F303400000000000000000000000000000000000000000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4238425F30303700000000000000000000000000000000001E000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4238425F30303800000000000000000000000000000000001E000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4238425F30303900000000000000000000000000000000001E000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4238425F30313000000000000000000000000000000000001E000000'
+  sprite: s32'null', 2147483647
+  Unknown2106: '0x4143325F4C454F5F4238425F30313100000000000000000000000000000000001E000000'
+  Unknown2107: '0x636D6E5F6576745F6B756D61635F35310000000000000000000000000000000004000000'
+  sprite: s32'null', 10
+  sprite: s32'null', 10
+  Unknown2114: 0, -16777216, 10
+  sprite: s32'null', 1
+  Unknown2108: 
+  endState: 
+
