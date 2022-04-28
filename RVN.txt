@@ -2987,6 +2987,7 @@ startState: s32'NmlAtk6A'
     damage: 26
     setProration: 90
     Unknown725: 1
+    setJumpCancelable: 1
     addGatlingOption: s32'NmlAtk5CNear'
     addGatlingOption: s32'NmlAtk5CFar'
     addGatlingOption: s32'NmlAtk6D'

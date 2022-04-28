@@ -57,10 +57,8 @@ Place your compiled mods into the rev2_mods folder
 
 ### RVN (Raven)
 
-- 
+- 6P jump cancellable
 
 #### Planned:
 
 - Scratch gives excitement on block
-
-- 6P jump cancellable
