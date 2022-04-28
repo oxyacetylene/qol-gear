@@ -37,13 +37,13 @@ Runs with Rev2ModLoader at runtime, found here: https://github.com/super-contine
 
 ### LEO
 
--
+- 2D sends Leo farther, should make f.S combo into 2D from farther out
+
+- 5K is jump cancellable
+
+- 6P now gatlings to c.S, f.S, 2H, 5H, 6H
 
 #### Planned:
-
-- Make f.S combo into 2D from farther out
-
-- 5K jump cancellable
 
 - bt.214S bigger hitbox upwards
 

@@ -2848,6 +2848,11 @@ startState: s32'NmlAtk6A'
   upon: (IMMEDIATE)
     attackLevel: 4
     damage: 38
+	addGatlingOption: s32'NmlAtk5CNear'
+    addGatlingOption: s32'NmlAtk5CFar'
+    addGatlingOption: s32'NmlAtk5D'
+    addGatlingOption: s32'NmlAtk6D'
+    addGatlingOption: s32'NmlAtk2D'
     setProration: 80
     groundHitEffect: (AIR_FACE_UP)
     hitAirPushbackX: 20000
@@ -2957,6 +2962,7 @@ startState: s32'NmlAtk5B'
   upon: (IMMEDIATE)
     attackLevel: 1
     damage: 16
+    setJumpCancelable: 1
     hitPushbackX: 150
     Unknown1103: 10
     addGatlingOption: s32'NmlAtk6A'
@@ -3615,7 +3621,7 @@ startState: s32'NmlAtk2E'
   sprite: s32'leo234_00', 2
   sprite: s32'leo234_01', 2
   sprite: s32'leo234_02', 2
-  physicsXImpulse: 18000
+  physicsXImpulse: 21000
   Unknown111: 80
   setThrowInvul: 1
   sprite: s32'leo234_03', 2
