@@ -3468,7 +3468,7 @@ startState: s32'NmlAtk5B'
       endIf: 
     Unknown2331: 3
     endUpon: 
-  sprite: s32'sol201_00', 3
+  sprite: s32'sol201_00', 2
   Unknown26: 2, 2, 3
   setJumpCancelable: 1
   sprite: s32'sol201_01', 1
