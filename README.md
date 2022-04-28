@@ -28,3 +28,27 @@ Runs with Rev2ModLoader at runtime, found here: https://github.com/super-contine
 - j.D is now attack level 4 (+1 from original) and has 30 untech time (+1 from original) to more closely match older Gear games and hopefully make dustloops easier.
 
 - 5K is now 3 frames startup just for fun
+
+#### Planned:
+
+- Make BR first hitbox launch faster to make 
+
+### LEO
+
+-
+
+#### Planned:
+
+- Make f.S combo into 2D from farther out
+
+- 5K jump cancellable
+
+- bt.214S bigger hitbox upwards
+
+### RVN (Raven)
+
+- 
+
+#### Planned:
+
+- Scratch gives excitement on block
